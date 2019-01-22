@@ -478,6 +478,10 @@ section
 {
 	display: inline-block;
 }
+.user1
+{
+	display: inline-block;
+}
 .main_nav li
 {
 	display: inline-block;
@@ -620,6 +624,9 @@ section
 	background: #f1f1f1;
 	border-radius: 50%;
 	vertical-align: middle;
+}
+.user1 {
+	margin-left:10px;
 }
 .search_button i,
 .user i
